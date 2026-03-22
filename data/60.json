@@ -9,5 +9,11 @@
     "FPS": "60",
     "Method": "Rolling",
     "records": [
+        {
+            "user": "JayGol",
+            "link": "https://medal.tv/games/geometry-dash/clips/mlWiOvUT4xCaMxOg7?invite=cr-MSw4MzQsNTc1MDM1OTI1",
+            "percent": 100,
+            "hz": "60"
+        }
     ]
 }
