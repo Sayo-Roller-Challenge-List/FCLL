@@ -102,15 +102,47 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <p>
+                        <a href="https://www.youtube.com/@Metal-e8c" target="_blank">Tutorial to roll and roll click</a>
+                    </p>
+                    <p>
+                        This list is specific to Sayo device users or those that possess a Sayo device.
+                    </p>
+                    <h3>Level Requirements</h3>
+                    <p>
+                        All levels must use gameplay specific to and completed by the use of rolling the volume know of the sayo or clicking the sayo's volume button. Any level that do not meet those requirements will be immediately rejected. A good example of this are high cps spam challenges.
+                    </p>
+                    <p>
+                        There is no listed maximum CPS making the CPS uncapped.
+                    </p>
+                    <p>
+                        Even though the list is listed as a "challenge", there is no length limit to levels.
+                    </p>
+                    <p>
+                        Please use appropriate elements in your levels. If the staff team think that a level uses inappropriate content within the level, we will immediately remove it from the list.
+                    </p>
+                    <p>
+                        You are allowed to use a combination of rolling and roll clicking which would default to roll clicking. The methods are for general guidelines on the method to complete the level.
+                    </p>
+                    <p>
+                        You are allowed to dupe levels completely but the gameplay cannot be the exact same. i.e. You cannot make the exact same level and change the colours which would deem your level as copied and not duped.
+                    </p>
+                        
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed)
+                        Achieved the record without using hacks (however, FPS bypass and CBF is allowed). However, this does not apply for levels with set framerates i.e. 60 FPS.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Levels are only allowed to have been beaten on 2.2.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Respawn time can be set to 0ms or however long needed.
+                    </p>
+                    <p>
+                        Have either source audio or clicks/taps in the video. Edited audio only does not count.
+                    </p>
+                    <p>
+                        The completion must include an FPS/CPS counter and a Cheat indicator for legitimacy purposes.
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
@@ -126,6 +158,9 @@ export default {
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we will not be accepting records for the level
+                    </p>
+                    <p>
+                        Show hitbox on death is allowed on levels that are visible however, levels with completely invisble gameplay sections cannot be beaten with Show Hitbox on Death. Noclip Accuracy completions are also not allowed.
                     </p>
                 </div>
             </div>
