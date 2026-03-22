@@ -104,7 +104,7 @@ export default {
                     </template>
                     <h3>
                         <a href="https://youtu.be/46J6sndaQSM" target="_blank"
-                           style="color: #2f85ad; text-decoration: underline;">
+                           style="color: #0018ff; text-decoration: underline;">
                             Click me! Tutorial to roll and roll click
                         </a>
                     </h3>
