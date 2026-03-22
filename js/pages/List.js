@@ -145,6 +145,9 @@ export default {
                         The completion must include an FPS/CPS counter and a Cheat indicator for legitimacy purposes.
                     </p>
                     <p>
+                        If there are any concerns to prove legitamcy, we may ask the user for raw footage to check for legitimacy.
+                    </p>
+                    <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
                     </p>
                     <p>
