@@ -9,5 +9,11 @@
     "FPS": "CBF",
     "Method": "Rolling",
     "records": [
+        {
+            "user": "JayGol",
+            "link": "https://medal.tv/games/geometry-dash/clips/mlYIpGERbtekjSysL?invite=cr-MSxqajYsNTc1MDM1OTI1",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
