@@ -111,7 +111,7 @@ export default {
                         
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass and CBF is allowed). However, this does not apply for levels with set framerates i.e. 60 FPS.
+                        Achieved the record without using hacks, however, TPS bypass is allowed for needed levels that are on unusual framerates.
                     </p>
                     <p>
                         Have either source audio or clicks/taps in the video. Edited audio only does not count.
