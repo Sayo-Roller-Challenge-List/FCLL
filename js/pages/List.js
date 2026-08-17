@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Level Requirements</h3>
                     <p>
-                        There is no listed maximum CPS making the CPS uncapped.
+                        The maxium cps for your level is 15. However, Levels cannot have more than 10 clicks of consistency/spam on any fps. If your level has a cps that if extended is above 15cps, It will get denied.
                     </p>
                     <p>
                         Please use appropriate elements in your levels. If the staff team think that a level uses inappropriate content within the level, we will immediately remove it from the list.
